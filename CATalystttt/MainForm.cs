@@ -30,7 +30,7 @@ namespace CATalystttt
                 // Path for the game
                 string gamePath = @"C:\Users\Administrator\Downloads\Game Assets\YtPLatformer\YTPlatformer\Builds\CATalyst.exe";
 
-                // Start the Godot game
+                // Start the game
                 Process.Start(gamePath);
 
                 // Close the WinForms application
